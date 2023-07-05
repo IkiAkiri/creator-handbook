@@ -1,7 +1,6 @@
 ## Content Creation Software: Autodesk 3DS Max 2023+ ##
 
 **Autodesk 3ds Max (2023+)** is capable of exporting GLTF directly with a new GLTF Material node setup. 
-
 *Prior editions of 3ds max will require a different export pipeline.*
 
 **Import or create your item** Make sure you have your completed mesh in your scene.
