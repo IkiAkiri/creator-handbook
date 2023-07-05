@@ -12,7 +12,7 @@ Instead of uploading all textures separately and adding them to your materials i
 
 **Normal Map** remains OpenGL format
 
-**Compute Tangent Space Per Fragment** Set to ON. Changing Normal Map and Tangent Space settings mid project will require a rebake.
+**Compute Tangent Space Per Fragment** Set to ON. *Changing Normal Map and Tangent Space settings mid project will require a rebake.*
 
 **Color Management rollout** is located at the bottom of the new project window OR in a preexisting project using the **Edit> Project Configuration.**
 
