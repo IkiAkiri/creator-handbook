@@ -14,7 +14,7 @@ Instead of uploading all textures separately and assembling your materials in-wo
 
 **Compute Tangent Space Per Fragment** Set to ON. *Changing Normal Map and Tangent Space settings mid project will require a rebake.*
 
-**Color Management rollout** is located at the bottom of the new project window OR in a preexisting project using the **Edit> Project Configuration.**
+**Color Management rollout** is located at the bottom of the new project window OR in a preexisting project using **Edit> Project Configuration.**
 
 [Screenshot of Substance Painter New Project Color Configuration Settings]
 
