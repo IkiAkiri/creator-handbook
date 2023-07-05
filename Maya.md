@@ -1,6 +1,6 @@
-Content Creation Software: Autodesk Maya 2017+
+## Content Creation Software: Autodesk Maya 2017+ ##
 
-Autodesk Maya does not support direct export for glTF at this time. Utilizing the babylon.js plugin is one of the easiest ways as of July 2023. This plugin is compatible with Autodesk Maya 2017 and later. 
+**Autodesk Maya does not support direct export for glTF at this time. Utilizing the babylon.js plugin is one of the easiest ways as of July 2023. This plugin is compatible with Autodesk Maya 2017 and later. 
 
 Please follow the instructions provided here to install the Babylon.js exporter for Autodesk Maya https://doc.babylonjs.com/features/featuresDeepDive/Exporters/Maya
 
