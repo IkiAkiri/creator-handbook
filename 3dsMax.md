@@ -16,7 +16,7 @@ Prior editions of 3ds max will require a different export pipeline.
 
 **Apply to mesh** Apply the materials to your object in the viewport. 
 
-**Before Export** If you are using a multi-sub material to specify your material IDs, please ensure there are no empty map slots before exporting. All textures being packed into ORM format MUST have the same dimensions and resolution to pack and export without issues. 
+**Before Export** If you are using a multi-sub material to specify your material IDs, please ensure there are no empty map slots before exporting. *All textures being packed into ORM format MUST have the same dimensions and resolution to pack and export without issues.*
 
 **Export** File>Export>Real-time Exporter will open your exporting options for glTF. Please click “Export glTF Binary (.glb)” if you’d like your materials to export separately and output a .glb file.
 
