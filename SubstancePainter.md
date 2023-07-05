@@ -1,7 +1,7 @@
 ## Content Creation Software: Adobe Substance Painter ##
 
 **Substance Painter** is the easiest tool of choice for creating content for **PBR.**
-Instead of uploading all textures separately and adding them to your materials in-world you can now export entire materials directly from Substance Painter. These files now exist as a **Material object** in your Second Life inventory. Direct exporting from Substance to **PBR glTF** results in higher quality textures with less compression. The procedures for creating glTF files are documented below.
+Instead of uploading all textures separately and assembling your materials in-world you can now export entire materials directly from Substance Painter. These files now exist as a **Material object** in your Second Life inventory. Direct exporting from Substance to **PBR glTF** results in higher quality textures with less compression. The procedures for creating glTF files are documented below.
 
 
 **New Project Template** Defaults for starting a new SL PBR project:
