@@ -22,7 +22,7 @@ Instead of uploading all textures separately and adding them to your materials i
 **Color Management** Choosing **Adobe ACE** in the dropdown enables additional color settings
 **Import + Export Color Spaces** Use pictured specifications above. 
 
-**Preset File** Bypass the Color Management settings by using a Preset File. Simply save the code below as a .json file and import it into your project instead. This will only set the parameters under the Color Management rollout, not your entire new project.
+**Preset File** Bypass the Color Management settings by using a Preset File. Simply save the code below as a .json file and import it into your project instead. *This will only set the parameters under the Color Management rollout, not your entire new project.*
 
 ```
 { 
