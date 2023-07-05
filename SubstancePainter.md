@@ -9,10 +9,12 @@ Instead of uploading all textures separately and adding them to your materials i
 [Screenshot of Substance Painter New Project Template]
 
 **Template Type** is set to ASM - PBR Metallic Roughness (Starter_Assets)
+
 **Normal Map** remains OpenGL format
+
 **Compute Tangent Space Per Fragment** Set to ON. Changing Normal Map and Tangent Space settings mid project will require a rebake.
 
-**Color Management** rollout is located at the bottom of the new project window OR in a preexisting project using the **Edit> Project Configuration.**
+**Color Management rollout** is located at the bottom of the new project window OR in a preexisting project using the **Edit> Project Configuration.**
 
 [Screenshot of Substance Painter New Project Color Configuration Settings]
 
@@ -22,6 +24,7 @@ Instead of uploading all textures separately and adding them to your materials i
 
 **Preset File** Bypass the Color Management settings by using a Preset File. Simply save the code below as a .json file and import it into your project instead. This will only set the parameters under the Color Management rollout, not your entire new project.
 
+```
 { 
   "color settings": { 
     "working color space": "Linear sRGB IEC61966-2.1", 
@@ -43,6 +46,7 @@ Instead of uploading all textures separately and adding them to your materials i
   } 
 } 
 
+```
 
 **Final Export Parameters** When your project is ready to export use the output template **glTF PBR Metal Roughness** in the export textures menu.
 
