@@ -12,7 +12,7 @@ Prior editions of 3ds max will require a different export pipeline.
 
 **Material Editor** Press M to access your materials. You can set up your glTF materials using either the Slate Material Editor OR the Compact Material editor.
 
-**GLTF Setup in Slate Editor (Nodes)** In the Material Node editor, drag your textures into the viewport and plug them into the corresponding map slots in your GLTF Material. Please refer to further 3ds max documentation if you prefer the compact material editor.
+**GLTF Setup in Slate Editor (Nodes)** In the Material Node editor, drag your textures into the viewport and plug them into the corresponding map slots in your GLTF Material. *Please refer to further 3ds max documentation if you prefer the compact material editor.*
 
 **Apply to mesh** Apply the materials to your object in the viewport. 
 
