@@ -51,7 +51,7 @@ Instead of uploading all textures separately and adding them to your materials i
 
 **Final Export Parameters** When your project is ready to export use the output template **glTF PBR Metal Roughness** in the export textures menu.
 
-[Screenshot of Substance Painter New Project Color Configuration Settings]
+[Screenshot of Substance Painter Export Settings]
 
 **After Export** Substance Painter will export your materials with 3 additional file types in the specified folder. They are **.bin, .glb, .gltf** as well as the maps converted to **ORM** format automatically. 
 
